@@ -1,0 +1,2 @@
+# newgame
+pata nhi 
